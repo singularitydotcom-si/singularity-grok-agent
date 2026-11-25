@@ -6,7 +6,7 @@
 
 ## What you need
 
-- Python 3.9 or newer (standard library only, nothing to install)
+- Python 3.9 or newer (standard library only, nothing to install). On a Mac with Python from python.org, run its "Install Certificates.command" once (in the Python folder under Applications), or HTTPS calls fail with CERTIFICATE_VERIFY_FAILED
 - Your own xAI API key from [console.x.ai](https://console.x.ai). It stays in your environment; the kit never writes it anywhere.
 
 ## 1. Write the personality (3 minutes)
